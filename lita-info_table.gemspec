@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = %w(development@rooland.cz)
   spec.description   = %q{Lita handler for providing basic infos}
   spec.summary       = %q{Handler which gives some basic info}
-  spec.homepage      = 'Add a homepage'
+  spec.homepage      = 'http://www.rooland.cz/lita-info_table'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
