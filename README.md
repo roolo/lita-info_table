@@ -1,5 +1,8 @@
 # lita-info_table
 
+[![Build Status](https://www.travis-ci.org/roolo/lita-info_table.png?branch=master)](https://www.travis-ci.org/roolo/lita-info_table)
+[![Coverage Status](https://coveralls.io/repos/roolo/lita-info_table/badge.png?branch=master)](https://coveralls.io/r/roolo/lita-info_table?branch=master)
+
 Just basic [Lita](http://jimmycuadra.github.io/lita/) handler as an example.
 
 ![Demo](demo.gif)
